@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "adrian.png"
   name             : "Adrian Cocian"
   pronouns         : # example: "he/him"  
   bio              : "Welcome to my academic website. I’m Dr. Adrian Cocian, a veterinarian and PhD candidate focused on modeling vector-borne diseases and public health risks.  
